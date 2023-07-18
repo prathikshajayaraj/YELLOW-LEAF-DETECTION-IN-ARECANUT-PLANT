@@ -1,0 +1,9 @@
+ph,ec,OC,N,P,K,Zn,B,Fe,Mn,Cu,S,YLD
+acidic,non_saline,high,high,high,low,sufficient,deficient,deficient,sufficient,deficient,deficient,no
+neutral,non_saline,high,high,high,low,sufficient,sufficient,deficient,sufficient,sufficient,sufficient,no
+acidic,non_saline,medium,medium,low,low,sufficient,deficient,sufficient,sufficient,sufficient,sufficient,no
+neutral,non_saline,high,high,high,low,deficient,deficient,deficient,deficient,sufficient,sufficient,no
+neutral,non_saline,high,high,high,low,sufficient,sufficient,sufficient,deficient,deficient,sufficient,yes
+neutral,non_saline,high,high,high,low,sufficient,sufficient,sufficient,deficient,sufficient,sufficient,yes
+acidic,non_saline,medium,medium,low,low,sufficient,sufficient,sufficient,sufficient,deficient,deficient,yes
+neutral,non_saline,high,high,high,low,sufficient,deficient,sufficient,sufficient,deficient,deficient,yes
